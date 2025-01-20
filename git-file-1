@@ -1,4 +1,8 @@
 "this is some text"
 "more text" 
 ths is the thrd line
-we made an edit using the UI, and commited the changes
+<<<<<<< HEAD
+
+=======
+ths is a change va the text ediitor
+>>>>>>> a7c6f69 (added file1)
